@@ -43,12 +43,13 @@ body.active{
     left:4px;
     transition: 0.5s all;
 }
-.mainbtn:checked::before{ 
+.mainbtn:checked:before{ 
     transition: 0.5s all;
     left:47px;
     background-color: #3498db;
      
 }
+
 
 
 .form{
